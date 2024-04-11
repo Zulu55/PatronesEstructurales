@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Facade.Proyector">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAIAAAAAAA=</HashCode>
+      <FileName>Proyector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade.ReproductorDvd">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>ReproductorDvd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade.SistemaSonido">
+    <Position X="8.25" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>SistemaSonido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade.HomeTheaterFacade">
+    <Position X="6.25" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAIAgAAIAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>HomeTheaterFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
